@@ -3,16 +3,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to India 2025 </title>
+<title> Welcome  to Devops </title>
 <style>
   body {
-    background-color: VIBGYOR;
+    background-color: orange;
   }
 </style>
 </head>
 <body>
-<h1>Welcome  to devops tutorial 2025 </h1>
-<p>Welcome  to devops tutorial 2025 and this is maven build </p>
+<h1>Welcome  to BHARATH devops tutorial 2025 </h1>
+<p>Welcome  to SUGGI devops tutorial 2025 and this is maven build </p>
 </body>
 </html>
 
