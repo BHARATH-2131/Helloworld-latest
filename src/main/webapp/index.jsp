@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to India 2025</title>
+<title> Welcome  to India 2025 </title>
 <style>
   body {
-    background-color: pink;
+    background-color: VIBGYOR;
   }
 </style>
 </head>
