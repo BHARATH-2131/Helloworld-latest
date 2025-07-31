@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to devops   </title>
+<title> Welcome  to India 2025</title>
 <style>
   body {
-    background-color: red;
+    background-color: green;
   }
 </style>
 </head>
