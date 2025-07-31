@@ -6,7 +6,7 @@
 <title> Welcome  to India 2025</title>
 <style>
   body {
-    background-color: green;
+    background-color: pink;
   }
 </style>
 </head>
